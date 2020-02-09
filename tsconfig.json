@@ -24,6 +24,12 @@
       ],
       "my-lib2/*": [
         "dist/my-lib2/*"
+      ],
+      "my-form2": [
+        "dist/my-form2"
+      ],
+      "my-form2/*": [
+        "dist/my-form2/*"
       ]
     }
   }
